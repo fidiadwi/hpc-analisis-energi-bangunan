@@ -1,0 +1,24 @@
+
+RINGKASAN HASIL PROYEK
+
+Jumlah data: 19735
+Jumlah fitur model: 28
+Jumlah data latih: 15788
+Jumlah data uji: 3947
+
+Hasil Random Forest:
+MAE  = 170.3820
+RMSE = 209.7498
+R2   = -4.3083
+
+Hasil baseline:
+MAE  = 52.6849
+RMSE = 91.0534
+R2   = -0.0003
+
+Fitur dengan kepentingan tertinggi:
+jam
+
+Catatan:
+Hasil evaluasi berlaku untuk pembagian data dan konfigurasi
+model pada proyek ini. Kepentingan fitur bukan bukti sebab-akibat.
